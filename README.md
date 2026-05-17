@@ -1,5 +1,7 @@
 # 日本人名前データ
 
+dataset available as [kaggle dataset](https://www.kaggle.com/datasets/rentoda/japanese-names-with-gender-extended)
+
 4つのデータセットから作成されています。
 420k件全てに性別データがあり、6割のデータは漢字とひらがな両方揃っています。
 
